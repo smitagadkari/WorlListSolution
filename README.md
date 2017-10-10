@@ -10,7 +10,7 @@ Commented code is tried to work with different objects to check performance.
 2. second longes word phosphatidylethanolamines. 
 3.62260 words possible.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 
 using System;
 using System.Collections.Generic;
