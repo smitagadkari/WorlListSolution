@@ -6,8 +6,8 @@ If the elements form words that are part of the word list, then passes it.
 Gives out a list of 62260 such words.
 
 Commented code is tried to work with different objects to check performance.
-1. Longest word immunoelectrophoretically,
-2. second longes word phosphatidylethanolamines 
+1. Longest word immunoelectrophoretically.
+2. second longes word phosphatidylethanolamines. 
 3.62260 words possible.
 
 
